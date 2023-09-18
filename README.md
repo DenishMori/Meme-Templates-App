@@ -1,4 +1,4 @@
-# full_screen_img
+# meme_templates_app
 
 A new Flutter project.
 
